@@ -41,6 +41,6 @@ class Program
             answer = answer + (leftitem * right.Count(x => x == leftitem));
         }
         
-        Console.WriteLine("Day1 - Part2: {0}",answer); //
+        Console.WriteLine("Day1 - Part2: {0}",answer); //22588371
     }
 }
