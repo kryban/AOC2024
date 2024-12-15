@@ -1,0 +1,14 @@
+# Ignore bin and obj directories
+bin/
+obj/
+
+# Visual Studio user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+*.dll
+*.exe
+*.pdb
