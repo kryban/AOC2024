@@ -68,7 +68,7 @@ void Part2(string s)
         }
         else
         {
-            dontList.Add(sub);
+            dontList.Add(sub);//
         }
     }
     
