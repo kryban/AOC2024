@@ -47,4 +47,14 @@ but where letters not involved in any XMAS have been replaced with .:
 `.A.A.A.A.A`</br>
 `..M.M.M.MM`</br>
 `.X.X.XMASX`</br>
+
+hv = 3 </br>
+ha = 2 </br>
+vv = 1 </br>
+va = 2 </br>
+drv = 1 </br>
+dra = 4 </br>
+dlv = 1 </br>
+dla = 4 </br>
+~~~~
 Take a look at the little Elf's word search. How many times does XMAS appear?
